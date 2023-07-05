@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Nassar</h1>
+<h1 align="center">I'm Omar Nassar</h1>
 <h3 align="center">dd($software_engineer);</h3>
 
 <p align="left">
